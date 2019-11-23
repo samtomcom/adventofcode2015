@@ -32,8 +32,6 @@ for char in line:
 
         houses.add( (rX, rY) )
 
-    # print("S[{}, {}], R[{}, {}]".format(x, y, rX, rY))
-
     count += 1
 
 print(len(houses))

@@ -14,8 +14,6 @@ for c in line:
     elif c == ")":
         floor -= 1
 
-    
-
     if floor == -1:
         print(count)
         break
